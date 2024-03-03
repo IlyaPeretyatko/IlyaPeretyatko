@@ -77,9 +77,11 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlyaPeretyatko&theme=2077" alt="GitHub stats card">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlyaPeretyatko&theme=2077" alt="Top languages in commits card">
+## Github Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlyaPeretyatko&theme=2077" alt="GitHub stats card">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlyaPeretyatko&theme=2077" alt="Top languages in commits card">
+</div>
 
 
 <br/>  
