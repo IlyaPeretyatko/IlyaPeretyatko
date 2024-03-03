@@ -79,8 +79,8 @@
 
 ## Github Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlyaPeretyatko&theme=2077" alt="GitHub stats card">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlyaPeretyatko&theme=2077" alt="Top languages in commits card">
+  ![IlyaPeretyatko's Stats](https://github-readme-stats.vercel.app/api?username=IlyaPeretyatko&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+  ![IlyaPeretyatko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPeretyatko&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 
