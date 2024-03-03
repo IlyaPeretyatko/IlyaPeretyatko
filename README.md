@@ -83,7 +83,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPeretyatko&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages in commits card>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=IlyaPeretyatko&&style=flat-square" alt="counter">
+  <img src="https://komarev.com/ghpvc/?username=IlyaPeretyatko&&style=flat-square" align="center">
   <br/>
 </div>
 
