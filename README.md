@@ -55,7 +55,8 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
+<a href="https://docs.gitlab.com/ee/ci/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/372275/ci-cd.svg" alt="CI/CD" height="50" /></a>  
 </div>
 
 
@@ -65,8 +66,11 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/IlyaPeretyatko" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a target="_blank" href="https://t.me/ilyaperetyatko/">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telagram" style="margin-bottom: 5px;">
+</a>
 </div>  
   
 
@@ -74,7 +78,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IlyaPeretyatko&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlyaPeretyatko&theme=2077" alt="GitHub stats card">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptrvsrg&theme=2077" alt="Top languages in commits card">
+
 
 <br/>  
 
