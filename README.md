@@ -31,14 +31,18 @@
 
 ### C/C++  
 <div align="center">  
-  
+  <a target="_blank" href="https://cmake.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake" height="50"></a>
+  <a target="_blank" href="http://google.github.io/googletest/"><img style="margin: 10px" src="https://www.svgrepo.com/show/353817/google-icon.svg" alt="Google Test" height="50"></a>
+  <a target="_blank" href="https://www.jetbrains.com/ru-ru/clion/"><img style="margin: 10px" src="https://www.svgrepo.com/show/353557/clion.svg" alt="CLion" height="50"></a>  
 </div>  
 
 
 
 ### Java  
 <div align="center">  
-  
+  <a target="_blank" href="https://maven.apache.org/"><img style="margin: 10px" src="https://www.svgrepo.com/show/373829/maven.svg" alt="Maven" height="50"></a>
+  <a target="_blank" href="https://www.jetbrains.com/ru-ru/idea/"><img style="margin: 10px" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="Intellij Ide" height="50"></a>
+  <a target="_blank" href="https://junit.org/junit5/"><img style="margin: 10px" src="https://www.svgrepo.com/show/330758/junit5.svg" alt="JUnit 5" height="50"></a>  
 </div>
 
 
