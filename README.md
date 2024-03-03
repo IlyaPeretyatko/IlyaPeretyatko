@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Hi there, I'm Ilya.😎</div>  
@@ -16,7 +14,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 
 
@@ -43,7 +41,6 @@
   
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
@@ -57,7 +54,6 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 
 <br/>  
 
@@ -79,7 +75,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
