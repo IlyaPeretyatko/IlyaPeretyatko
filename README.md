@@ -80,10 +80,8 @@
 ## Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IlyaPeretyatko&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats card">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaPeretyatko&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top languages in commits card>
-
-  
-
 </div>
 
 
