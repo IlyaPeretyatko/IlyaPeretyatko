@@ -86,6 +86,8 @@
 </div>
 
 <div align="center">
+  <br/>
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=IlyaPeretyatko&&style=flat-square" align="center">
   <br/>
 </div>
