@@ -33,7 +33,8 @@
 <div align="center">  
   <a target="_blank" href="https://cmake.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake" height="50"></a>
   <a target="_blank" href="http://google.github.io/googletest/"><img style="margin: 10px" src="https://www.svgrepo.com/show/353817/google-icon.svg" alt="Google Test" height="50"></a>
-  <a target="_blank" href="https://www.jetbrains.com/ru-ru/clion/"><img style="margin: 10px" src="https://www.svgrepo.com/show/353557/clion.svg" alt="CLion" height="50"></a>  
+  <a target="_blank" href="https://www.jetbrains.com/ru-ru/clion/"><img style="margin: 10px" src="https://www.svgrepo.com/show/353557/clion.svg" alt="CLion" height="50"></a>
+  <a target="_blank" href="https://www.qt.io/"><img style="margin: 10px" src="https://www.svgrepo.com/show/354243/qt.svg" alt="Qt" height="50"></a>  
 </div>  
 
 
