@@ -44,7 +44,7 @@
   <a target="_blank" href="https://maven.apache.org/"><img style="margin: 10px" src="https://www.svgrepo.com/show/373829/maven.svg" alt="Maven" height="50"></a>
   <a target="_blank" href="https://www.jetbrains.com/ru-ru/idea/"><img style="margin: 10px" src="https://www.svgrepo.com/show/353906/intellij-idea.svg" alt="Intellij Ide" height="50"></a>
   <a target="_blank" href="https://junit.org/junit5/"><img style="margin: 10px" src="https://www.svgrepo.com/show/330758/junit5.svg" alt="JUnit 5" height="50"></a>
-  <a target="_blank" href="https://spring.io/projects/spring-framework.svg"><img style="margin: 10px" src="https://www.svgrepo.com/svg/376350/spring" alt="Spring Framework" height="50"></a>
+  <a target="_blank" href="https://spring.io/projects/spring-framework.svg"><img style="margin: 10px" src="https://www.svgrepo.com/svg/376350/spring.svg" alt="Spring Framework" height="50"></a>
   <a target="_blank" href="https://gradle.org/"><img style="margin: 10px" src="https://www.svgrepo.com/show/353831/gradle.svg" alt="Gradle" height="50"></a> 
 </div>
 
