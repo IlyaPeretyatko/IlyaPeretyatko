@@ -6,8 +6,6 @@
 
 - 👨‍🎓Student of Novosibirsk State University.  
   
-
-- 🎓 Student of School 21 by Sber.  
   
 
 <br/>  
